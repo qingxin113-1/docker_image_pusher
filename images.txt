@@ -1,2 +1,1 @@
-onlyoffice/documentserver
-sakoo123/modelscope
+ollama/ollama
